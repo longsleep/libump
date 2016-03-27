@@ -1,3 +1,9 @@
+libump (3.0-0sunxi1+0xenial0) xenial; urgency=medium
+
+  * Rebuild for Xenial. 
+
+ -- Simon Eisenmann <simon@longsleep.org>  Sun, 27 Mar 2016 19:37:53 +0200
+
 libump (3.0-0sunxi1) any; urgency=low
 
   * add udev file.
