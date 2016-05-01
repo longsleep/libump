@@ -17,6 +17,7 @@ Architecture: any
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
+ udev,
 Pre-Depends: ${misc:Pre-Depends}
 Multi-Arch: same
 Description: ARM Unified Memory Provider library
