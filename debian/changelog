@@ -1,3 +1,9 @@
+libump (3.0-0sunxi1+0xenial1) xenial; urgency=medium
+
+  * Add udev dependency.
+
+ -- Simon Eisenmann <simon@longsleep.org>  Sun, 01 May 2016 19:10:47 +0200
+
 libump (3.0-0sunxi1+0xenial0) xenial; urgency=medium
 
   * Rebuild for Xenial. 
